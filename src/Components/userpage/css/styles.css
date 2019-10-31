@@ -1,0 +1,67 @@
+body{
+    background: beige;
+}
+
+.user_infob{
+    
+    background-color: gold;
+    width: 320px;
+    padding-left: 10px;
+}
+p{
+    font-weight: bold;
+    color: green;
+}
+.avatar{
+    background: goldenrod;
+    padding: 5px;
+    width: 320px;
+}
+.user_leftpanel{
+    background: green;
+    width: 330px;
+ 
+}
+.photos h3{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.photos{
+    background: blueviolet;
+    width: 320px;
+    padding: 5px;
+}
+
+.Photos_blocks{
+    height: 250px;
+    width: 320px;
+
+    background: brown;
+    
+}
+.Photos_blocks div{
+    float: left;
+    margin-left: 3px;
+    margin-top: 3px;
+}
+.myphoto{
+    border: 1px solid saddlebrown;
+    margin: 0;
+    padding: 0;
+    background: greenyellow;
+    height: 100px;
+    
+}
+.myphoto img{
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height: 100px;
+}
+div{
+   border: 1px solid black; 
+}
+.avatar img{
+    width: 320px;
+}
